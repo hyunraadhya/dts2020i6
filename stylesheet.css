@@ -162,6 +162,10 @@ header {
   height: 150px;
 }
 
+.icon:hover {
+  width: 160px;
+  height: 160px;
+
 .lesson-icon p {
   position: absolute;
   top: 44%;
